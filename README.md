@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Royal Cyber**
 
-- 🌱 I’m currently learning **AWS, GCP Cloud, Kubernetes, React Native, and AI **
+- 🌱 I’m currently learning **AWS, GCP Cloud, Kubernetes **
 
 - 💬 Ask me about **MERN Stack, Web Development, React, Redux, NodeJS**
 
